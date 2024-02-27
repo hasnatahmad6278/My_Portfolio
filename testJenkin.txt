@@ -1,0 +1,1 @@
+After going to setting add webhook, jenkins ip:port and add let me select option Git pull and pushes and testing now.
